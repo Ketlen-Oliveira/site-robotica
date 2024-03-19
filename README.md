@@ -31,7 +31,7 @@ Agora você deve ser capaz de ver o site funcionando localmente no seu navegador
 ![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/ae152ddc-e7e5-4bff-b191-ba97113cc3f3)
 ![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/d34d0dc4-c9fb-4c1a-87bf-cee9d98c67f8)
 
-![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/b7980620-28c5-43e0-b032-b5e74e7339dc)
+![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/efbcef60-8a60-4ef1-9578-416dad58caf6)
 ![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/faf94295-b4ac-49fb-871b-a8d11f1b641c)
 ![image](https://github.com/Ketlen-Oliveira/site-robotica/assets/117291920/c4c053e3-2cd4-41cf-b778-82f1bed242a9)
 
